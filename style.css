@@ -1,5 +1,4 @@
 body {
-    /*background-color: black;*/
-    background: conic-gradient(red, pink, darkred, maroon, hotpink);
+    background-color: black;
     color: white;
 }
