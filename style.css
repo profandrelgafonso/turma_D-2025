@@ -14,8 +14,10 @@ header {
     border-left: double 10px rgb(0, 255, 255);
     padding: 1%;
     font-size: 120%;
-    color: deepskyblue;
-    text-shadow: 0 0 5px white;
+    color: black;
+    text-shadow: 0 0 5px whitesmoke,
+                 0 0 10px whitesmoke,
+                 0 0 20px whitesmoke;
 }
 
 h1 {
@@ -25,4 +27,8 @@ h1 {
 
 p {
     font-family: "Lexend", sans-serif;
+}
+
+iframe {
+    margin-top: 2%;
 }
