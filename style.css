@@ -26,6 +26,7 @@ section {
     background-color: royalblue;
     display: flex;
     justify-content: center;
+    column-gap: 5%;
 }
 
 h1 {
