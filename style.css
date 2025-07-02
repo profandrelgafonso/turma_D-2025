@@ -26,7 +26,6 @@ section {
     background-color: royalblue;
     display: flex;
     justify-content: center;
-    column-gap: 5%;
 }
 
 h1 {
@@ -40,4 +39,8 @@ p {
 
 iframe {
     margin-top: 2%;
+}
+
+.chamadaTexto {
+    margin-right: 5%;
 }
