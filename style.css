@@ -41,6 +41,17 @@ iframe {
     margin-top: 2%;
 }
 
+img{
+    height:200px;
+}
 .chamadaTexto {
     margin-right: 5%;
+}
+.categoria{
+    section {
+  background: rgb(184, 156, 213);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
 }
