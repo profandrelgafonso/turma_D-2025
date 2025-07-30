@@ -54,4 +54,9 @@ img{
   padding-top: 80px;
   display: flex;
   justify-content: center;
+    }
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
 }
